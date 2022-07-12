@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          Let's see what is possible
+          Let's see what is possible!
         </p>
 
         <hr/>

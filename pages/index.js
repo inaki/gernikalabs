@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Yo Yo Yo</title>
+        <title>Gernika Labs</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -14,7 +14,7 @@ export default function Home() {
         <Profile />
 
         <h1 className="title">
-          Learning <a href="https://nextjs.org">Next.js!</a>
+          Gernika <a href="https://nextjs.org">Labs</a>
         </h1>
 
         <p className="description">
